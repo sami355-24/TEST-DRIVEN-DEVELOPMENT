@@ -14,3 +14,9 @@ d
 4src/test/java/org/example/chap02/CalculatorTest.java,d/a/da16d28f5dcc8ad3ce1b881e77cba33a8d0e7275
 o
 ?src/test/java/org/example/chap02/PasswordStrengthMeterTest.java,3/d/3d39d38785061f6fad2e9acab092ffc7e67ab882
+n
+>src/test/java/org/example/chap02/PasswordStrenghMeterTest.java,7/4/7455ed8e4883ff0204c0fd43964fff028d3e404f
+f
+6src/test/java/org/example/chap02/PasswordStrength.java,2/c/2c863bab8476e25fd3d23d1c93e0f7fdcc36ef00
+k
+;src/test/java/org/example/chap02/PasswordStrengthMeter.java,8/a/8a470de62033a8a9e18f1d92f79d56d43e52ca41
