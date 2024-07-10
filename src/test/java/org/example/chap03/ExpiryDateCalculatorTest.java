@@ -1,4 +1,4 @@
-package org.example.chap3;
+package org.example.chap03;
 
 import static org.junit.jupiter.api.Assertions.*;
 
